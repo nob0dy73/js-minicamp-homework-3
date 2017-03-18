@@ -1,0 +1,12 @@
+1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+		
+	* Objects
+	  It's a what it sounds like. if you have an object it contains properties of that object. 
+	* Properties
+	It's what defines an object. if you have a cup then it has color, shape, volume.
+	* Methods
+	It's a function of the object. If you want to drink the water from the cup then you have to tip it over.
+	* for in loop
+	a for in loop is a way to iterate or go though all the elements in an array
+	* dot notation vs bracket notation
+	dot notation is easier to write when calling properties. bracket notation allows us to use special characters or having properites that use variables.
